@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.sora{
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+  }
+
+.colorHandel{
+   background-color: #E7FE29;
+   font-size: 18px;
+   font-weight:600;
+}
+
+.hoverColor:hover{
+  background-color: #f8fece;
+  font-weight: 700;
+}

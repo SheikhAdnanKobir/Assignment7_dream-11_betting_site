@@ -1,0 +1,122 @@
+[
+    {
+        "player_id": 1,
+        "player_name": "Kane Williamson",
+        "batting_style": "Right-handed",
+        "category": "Batsman",
+        "country": "New Zealand",
+        "market_price": 1500000,
+        "image_url": "https://i.ibb.co.com/zNwsSFX/Kane-Williamson.jpg",
+        "player_rating": 9.2
+    },
+    {
+        "player_id": 2,
+        "player_name": "Joe Root",
+        "batting_style": "Right-handed",
+        "category": "Batsman",
+        "country": "England",
+        "market_price": 1800000,
+        "image_url": "https://i.ibb.co.com/ZGzsvGt/Joe-Root.jpg",
+        "player_rating": 9.0
+    },
+    {
+        "player_id": 3,
+        "player_name": "David Warner",
+        "batting_style": "Left-handed",
+        "category": "Batsman",
+        "country": "Australia",
+        "market_price": 1900000,
+        "image_url": "https://i.ibb.co.com/tYvMmJt/David-Warner.jpg",
+        "player_rating": 8.8
+    },
+    {
+        "player_id": 4,
+        "player_name": "AB de Villiers",
+        "batting_style": "Right-handed",
+        "category": "Batsman",
+        "country": "South Africa",
+        "market_price": 2200000,
+        "image_url": "https://i.ibb.co.com/bzjt9n7/AB-de-Villiers.jpg",
+        "player_rating": 9.6
+    },
+    {
+        "player_id": 5,
+        "player_name": "Ben Stokes",
+        "batting_style": "Left-handed",
+        "category": "All-rounder",
+        "country": "England",
+        "market_price": 2300000,
+        "image_url": "https://i.ibb.co.com/DYrzmfw/Ben-Stokes.jpg",
+        "player_rating": 9.3
+    },
+    {
+        "player_id": 6,
+        "player_name": "Rashid Khan",
+        "batting_style": "Right-handed",
+        "category": "Bowler",
+        "country": "Afghanistan",
+        "market_price": 1100000,
+        "image_url": "https://i.ibb.co.com/DpYhpgH/Rashid-Khan.jpg",
+        "player_rating": 8.9
+    },
+    {
+        "player_id": 7,
+        "player_name": "Trent Boult",
+        "batting_style": "Right-handed",
+        "category": "Bowler",
+        "country": "New Zealand",
+        "market_price": 1400000,
+        "image_url": "https://i.ibb.co.com/TTdXvpc/Trent-Boult.jpg",
+        "player_rating": 8.7
+    },
+    {
+        "player_id": 8,
+        "player_name": "Jasprit Bumrah",
+        "batting_style": "Right-handed",
+        "category": "Bowler",
+        "country": "India",
+        "market_price": 1800000,
+        "image_url": "https://i.ibb.co.com/y54BBdw/Jasprit-Bumrah.jpg",
+        "player_rating": 9.1
+    },
+    {
+        "player_id": 9,
+        "player_name": "Mitchell Starc",
+        "batting_style": "Left-handed",
+        "category": "Bowler",
+        "country": "Australia",
+        "market_price": 2000000,
+        "image_url": "https://i.ibb.co.com/CsDBcwc/Mitchell-Starc.webp",
+        "player_rating": 9.0
+    },
+    {
+        "player_id": 10,
+        "player_name": "Virat Kohli",
+        "batting_style": "Right-handed",
+        "category": "Batsman",
+        "country": "India",
+        "market_price": 2000000,
+        "image_url": "https://i.ibb.co.com/tB1c1mS/Virat-Kohli.jpg",
+        "player_rating": 9.5
+    },
+    {
+        "player_id": 11,
+        "player_name": "Shakib Al Hasan",
+        "batting_style": "Left-handed",
+        "category": "All-rounder",
+        "country": "Bangladesh",
+        "market_price": 1700000,
+        "image_url": "https://i.ibb.co.com/6BQqy9S/Sakib-al-Hasan.webp",
+        "player_rating": 8.6
+    },
+    {
+        "player_id": 12,
+        "player_name": "Quinton de Kock",
+        "batting_style": "Left-handed",
+        "category": "Wicketkeeper",
+        "country": "South Africa",
+        "market_price": 1300000,
+        "image_url": "https://i.ibb.co.com/7KkDWS9/Quentin-De-KOK.jpg",
+        "player_rating": 8.5
+    }
+]
